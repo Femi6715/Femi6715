@@ -1,14 +1,14 @@
-## Hi, I'm Oluwafemi Alao 👋
+## Hi, I'm Oluwafemi Alao
 
 **Cloud & DevOps Engineer.** I build and support AWS and Azure infrastructure, automate it with Terraform and Python, run CI/CD pipelines, and keep production systems healthy with good monitoring.
 
-- 🔧 **Infrastructure as code:** Terraform, CloudFormation, Ansible
-- 🚀 **CI/CD:** GitHub Actions, Jenkins, Azure DevOps
-- ☸️ **Containers:** Docker, Kubernetes (EKS), Helm, Kustomize
-- 📈 **Monitoring:** Prometheus, Grafana, CloudWatch, Splunk
-- 🐧 **Systems:** Linux, Bash, Python, PowerShell, SQL
+- **Infrastructure as code:** Terraform, CloudFormation, Ansible
+- **CI/CD:** GitHub Actions, Jenkins, Azure DevOps
+- **Containers:** Docker, Kubernetes (EKS), Helm, Kustomize
+- **Monitoring:** Prometheus, Grafana, CloudWatch, Splunk
+- **Systems:** Linux, Bash, Python, PowerShell, SQL
 
-### 🏅 Certifications
+### Certifications
 
 - AWS Certified DevOps Engineer – Professional
 - AWS Certified Solutions Architect
@@ -16,7 +16,14 @@
 - CompTIA Linux+
 - Splunk Core Certified Power User
 
-### 📂 Projects on this profile
+### Applications
+
+| Project | What it is |
+|---|---|
+| [newlifedashboard](https://github.com/Femi6715/newlifedashboard) | Case management dashboard for a recovery center: Next.js, TypeScript, Prisma, MySQL, Socket.IO |
+| [Practicum-V2](https://github.com/Femi6715/Practicum-V2) | Graduate application processing system with OCR transcript reading: Python, Flask, MySQL, Tesseract |
+
+### DevOps projects
 
 | Project | What it shows |
 |---|---|
@@ -27,6 +34,6 @@
 | [prometheus-grafana-monitoring](https://github.com/Femi6715/prometheus-grafana-monitoring) | A monitoring stack with alert rules |
 | [compose-nginx-flask-redis](https://github.com/Femi6715/compose-nginx-flask-redis) | A multi-container app behind an Nginx reverse proxy |
 
-### 📫 Connect
+### Connect
 
 [LinkedIn](https://www.linkedin.com/in/oluwafemialao7)
